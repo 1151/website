@@ -1,6 +1,6 @@
 <?php 
 
-$ToEmail = '1151@aircadets.org'; 
+$ToEmail = 'oc.1151@aircadets.org'; 
 $EmailSubject = 'Site contact form'; 
 
 $mailheader = "From: ".$_POST["form_email"]."\r\n"; 
